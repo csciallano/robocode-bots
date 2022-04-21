@@ -1,0 +1,11 @@
+{
+  "name": "Cleminem Bot",
+  "version": "1.0",
+  "gameTypes": "melee, classic, 1v1",
+  "authors": "Clément Sciallano",
+  "description": "Cleminem bot",
+  "homepage": "",
+  "countryCodes": "fr",
+  "platform": ".Net",
+  "programmingLang": "C#"
+}
